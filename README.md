@@ -38,8 +38,8 @@ The application should now be running on http://localhost:8000<br>
 ![Screenshot (60)](https://user-images.githubusercontent.com/112555787/215352995-dd7894ed-ccfa-48fb-bcde-e1c4726e73d6.png)
 
 
-**Project Presentation**!
-https://drive.google.com/file/d/1uPzHbcyc9otGkdXDleIAzsO15fjiC5v2/view?usp=share_link
+**Project Presentation**!<br>
+https://drive.google.com/file/d/1uPzHbcyc9otGkdXDleIAzsO15fjiC5v2/view?usp=share_link<br>
 
 [Yellow Orange Grey Clean Professional Mockups Financial Technology (Fintech) Technology Presentation](https://user-images.githubusercontent.com/112555787/215548676-95b66a60-1bad-4586-a0ee-fa1e73c94a36.png)
 
